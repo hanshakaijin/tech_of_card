@@ -1,0 +1,352 @@
+<room>
+  <game-table name="最初のテーブル" width="20" height="15" gridSize="50" imageIdentifier="testTableBackgroundImage_image" backgroundImageIdentifier="imageIdentifier" backgroundFilterType="" selected="false" gridType="0" gridColor="#000000e6" />
+  <card-stack location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" rotate="0" zindex="58" owner="" isShowTotal="true">
+    <data name="card-stack">
+      <data name="image">
+        <data type="image" name="imageIdentifier" />
+      </data>
+      <data name="common">
+        <data name="name">山札</data>
+      </data>
+      <data name="detail" />
+    </data>
+    <node name="cardRoot">
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front01.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front02.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front03.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front04.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front05.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front06.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front07.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front08.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front09.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front10.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front11.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front12.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front13.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front14.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front15.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front16.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front17.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front18.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front19.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front20.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front21.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front22.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front23.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+        <data name="card">
+          <data name="image">
+            <data type="image" name="imageIdentifier" />
+            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_front24.png</data>
+            <data type="image" name="back">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card_back.png</data>
+          </data>
+          <data name="common">
+            <data name="name">カード</data>
+            <data name="size">2</data>
+          </data>
+          <data name="detail" />
+        </data>
+      </card>
+      </node>
+  </card-stack>
+</room>

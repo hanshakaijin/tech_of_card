@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chat-tab-list>
+  <chat-tab name="メインタブ"></chat-tab>
+  <chat-tab name="サブタブ"></chat-tab>
+</chat-tab-list>
