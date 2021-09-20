@@ -5,9 +5,9 @@ import glob
 import re
 
 # フォルダ名の指定
-INPUT_FOLDER = os.path.dirname(__file__) + './xml_input/' # 読み込むdata.xmlを格納する
-OUTPUT_FOLDER = os.path.dirname(__file__) + './xml_output/' # 生成するdata.xmlを格納する
-IMAGES_FOLDER = os.path.dirname(__file__) + './images/' # カードの画像ファイルを格納する
+INPUT_FOLDER = os.path.dirname(__file__) + '/xml_input/' # 読み込むdata.xmlを格納する
+OUTPUT_FOLDER = os.path.dirname(__file__) + '/xml_output/' # 生成するdata.xmlを格納する
+IMAGES_FOLDER = os.path.dirname(__file__) + '/images/' # カードの画像ファイルを格納する
 GITHUB_URL = \
     'https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/'
 
@@ -46,4 +46,4 @@ for c in node[0].findall('card'):
 node[0].extend(new_cards)
 
 # data.xmlの書き込み
-ET.ElementTree(element=root).write(OUTPUT_FOLDER + './data.xml', encoding='UTF-8')
+ET.ElementTree(element=root).write(OUTPUT_FOLDER + 'data.xml', encoding='UTF-8')

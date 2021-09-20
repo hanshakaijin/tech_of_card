@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <room>
   <game-table name="最初のテーブル" width="20" height="15" gridSize="50" imageIdentifier="testTableBackgroundImage_image" backgroundImageIdentifier="imageIdentifier" backgroundFilterType="" selected="false" gridType="0" gridColor="#000000e6"></game-table>
-  <card-stack location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" rotate="0" zindex="58" owner="" isShowTotal="true">
+  <card-stack location.name="table" location.x="600" location.y="375" posZ="0" rotate="0" zindex="7" owner="" isShowTotal="true">
     <data name="card-stack">
       <data name="image">
         <data type="image" name="imageIdentifier"></data>
@@ -12,40 +12,12 @@
       <data name="detail"></data>
     </data>
     <node name="cardRoot">
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier"></data>
-            <data type="image" name="front">eaf823550d54c56c9ed94cf74930b3186278aff0857003369c2b1f393dc80230</data>
-            <data type="image" name="back">0916e025b305b5d95d7e3dd44ff8ab6b3d1a4013b952f70e18af90467c03dbc5</data>
-          </data>
-          <data name="common">
-            <data name="name">カード</data>
-            <data name="size">2</data>
-          </data>
-          <data name="detail"></data>
-        </data>
-      </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
-        <data name="card">
-          <data name="image">
-            <data type="image" name="imageIdentifier"></data>
-            <data type="image" name="front">0e488d84db31fb7d6d6fb5b77e50f012ecfc0dd034fd0c886fb552b6c5bd4530</data>
-            <data type="image" name="back">0916e025b305b5d95d7e3dd44ff8ab6b3d1a4013b952f70e18af90467c03dbc5</data>
-          </data>
-          <data name="common">
-            <data name="name">カード</data>
-            <data name="size">2</data>
-          </data>
-          <data name="detail"></data>
-        </data>
-      </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
-        <data name="card">
-          <data name="image">
-            <data type="image" name="imageIdentifier"></data>
-            <data type="image" name="front">https://github.com/hanshakaijin/tech_of_card/raw/master/chapter4/images/card03.png</data>
-            <data type="image" name="back">0916e025b305b5d95d7e3dd44ff8ab6b3d1a4013b952f70e18af90467c03dbc5</data>
+            <data type="image" name="front">./assets/images/trump/c01.gif</data>
+            <data type="image" name="back">./assets/images/trump/z02.gif</data>
           </data>
           <data name="common">
             <data name="name">カード</data>

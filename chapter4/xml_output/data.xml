@@ -1,6 +1,6 @@
 <room>
   <game-table name="最初のテーブル" width="20" height="15" gridSize="50" imageIdentifier="testTableBackgroundImage_image" backgroundImageIdentifier="imageIdentifier" backgroundFilterType="" selected="false" gridType="0" gridColor="#000000e6" />
-  <card-stack location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" rotate="0" zindex="58" owner="" isShowTotal="true">
+  <card-stack location.name="table" location.x="600" location.y="375" posZ="0" rotate="0" zindex="7" owner="" isShowTotal="true">
     <data name="card-stack">
       <data name="image">
         <data type="image" name="imageIdentifier" />
@@ -11,7 +11,7 @@
       <data name="detail" />
     </data>
     <node name="cardRoot">
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -25,7 +25,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -39,7 +39,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -53,7 +53,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -67,7 +67,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -81,7 +81,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -95,7 +95,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -109,7 +109,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -123,7 +123,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -137,7 +137,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -151,7 +151,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -165,7 +165,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -179,7 +179,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -193,7 +193,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -207,7 +207,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -221,7 +221,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -235,7 +235,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -249,7 +249,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -263,7 +263,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -277,7 +277,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -291,7 +291,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -305,7 +305,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -319,7 +319,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -333,7 +333,7 @@
           <data name="detail" />
         </data>
       </card>
-      <card location.name="table" location.x="474.0298330095958" location.y="519.512985247202" posZ="0" state="0" rotate="0" owner="" zindex="0">
+    <card location.name="table" location.x="700" location.y="400" posZ="0" state="0" rotate="0" owner="" zindex="0">
         <data name="card">
           <data name="image">
             <data type="image" name="imageIdentifier" />
@@ -347,6 +347,6 @@
           <data name="detail" />
         </data>
       </card>
-      </node>
+    </node>
   </card-stack>
 </room>
